@@ -1,11 +1,13 @@
-# Guess
+# Guess The Number
+Simple terminal game. The player select the dificult and start guessing the number.
 
-**TODO: Add description**
+##How to run
+```
+mix run
+```
 
 ## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `guess` to your list of dependencies in `mix.exs`:
+mix.exs
 
 ```elixir
 def deps do
@@ -14,8 +16,3 @@ def deps do
   ]
 end
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/guess>.
-
