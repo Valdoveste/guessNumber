@@ -1,7 +1,7 @@
 # Guess The Number
 Simple terminal game. The player select the dificult and start guessing the number.
 
-##How to run
+## How to run
 ```
 mix run
 ```
